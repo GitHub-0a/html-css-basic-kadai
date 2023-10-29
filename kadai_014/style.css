@@ -18,12 +18,10 @@
 
 .clrbr {
     color: rgb(0, 0, 0, 1); /*黒*/
-    text-shadow: 1px 1px 2px gray; /*文字影*/ 
 } 
 
 .clrpi {
     color: rgb(255, 192, 203, 1);  /*桃*/
-    text-shadow: 1px 1px 2px gray; /*文字影*/
 } 
 
 .p {
