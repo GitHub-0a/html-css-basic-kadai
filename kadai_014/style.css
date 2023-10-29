@@ -1,7 +1,3 @@
-#parent div {
-    font-size: 20px; 
-}
-    
 #basic div {
     letter-spacing: 0em; /*文字間隔*/
     text-shadow: none; /*文字影なし*/
